@@ -10,5 +10,5 @@ Unfortunately this turned out to be impossible because on inspection there was n
 ## Reflection
 My main takeaway from this experience is the limitations and roadblocks that real data presents often limit what an analyst can do. Furthermore, I gained a new appreciation of good quality data and the techniques we have to increase the usability of low quality data. 
 
-## Source
+## Sources
 [The Environmental Protection Agency's Air Quality API](https://aqs.epa.gov/aqsweb/documents/data_api.html)
